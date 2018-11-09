@@ -1,0 +1,17 @@
+c:\users\mastermind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\bin\Debug\MyFitnessPal.exe
+c:\users\mastermind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\bin\Debug\MyFitnessPal.pdb
+c:\users\mastermind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\obj\x86\Debug\MyFitnessPal.Properties.Resources.resources
+c:\users\mastermind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\obj\x86\Debug\MyFitnessPal.csproj.GenerateResource.Cache
+c:\users\mastermind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\obj\x86\Debug\MyFitnessPal.exe
+c:\users\mastermind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\obj\x86\Debug\MyFitnessPal.pdb
+C:\Users\MasterMind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\bin\Debug\MyFitnessPal.exe.config
+C:\Users\MasterMind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\bin\Debug\Namirnice.mdf
+C:\Users\MasterMind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\bin\Debug\Namirnice_log.ldf
+C:\Users\MasterMind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\obj\x86\Debug\MyFitnessPal.Osnovna.resources
+C:\Users\MasterMind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\obj\x86\Debug\MyFitnessPal.Tezina.resources
+C:\Users\MasterMind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\obj\x86\Debug\MyFitnessPal.Namirnice.resources
+C:\Users\MasterMind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\obj\x86\Debug\MyFitnessPal.UneteKalorije.resources
+C:\Users\MasterMind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\obj\x86\Debug\MyFitnessPal.TezinaUnos.resources
+C:\Users\MasterMind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\obj\x86\Debug\MyFitnessPal.Kalkulator.resources
+C:\Users\MasterMind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\obj\x86\Debug\MyFitnessPal.KalkulatorParametri.resources
+C:\Users\MasterMind\documents\visual studio 2010\Projects\MyFitnessPal\MyFitnessPal\obj\x86\Debug\MyFitnessPal.csprojResolveAssemblyReference.cache
